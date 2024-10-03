@@ -13,7 +13,6 @@ namespace hello
             Console.WriteLine("Hello C# World!!");
 
             Console.ReadLine();
-
         }
     }
 }
